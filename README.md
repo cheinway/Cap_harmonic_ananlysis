@@ -1,2 +1,2 @@
 # Cap_harmonic_ananlysis
-Fortran prgrams for ananlysis of using fully normalized spherical cap harmonics
+Fortran programs for analysis using fully normalized spherical cap harmonics
